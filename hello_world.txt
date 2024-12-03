@@ -1,2 +1,0 @@
-put something new to something new.
-just added something to confirm the git commit actions
